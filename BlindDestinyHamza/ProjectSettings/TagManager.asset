@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sploc1
+  - sploc2
+  - PinkMan_Player
+  - MaskDude_Player
+  - MaskDude
+  - PinkMan
+  - VirtualGuy_Player
+  - sploc3
+  - sploc4
+  - NinjaFrog_Player
+  - LogInSignUpPanel
+  - MainPanel
+  - GAMEMANAGER
+  - joystick
+  - Platform_Neutral
+  - Platform_MaskDude
+  - Platform_NinjaFrog
+  - Platform_VirtualGuy
+  - Platform_PinkMan
+  - Acid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform_PinkMan
+  - Platform_MaskDude
+  - Platform_NinjaFrog
+  - Platform_VirtualGuy
+  - Platform_Neutral
+  - MaskDude_Player
+  - PinkMan_Player
+  - NinjaFrog_Player
+  - VirtualGuy_Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
